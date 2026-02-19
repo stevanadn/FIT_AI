@@ -126,8 +126,3 @@ INPUT: Goal = Hypertrophy | Target = Chest | Gear = Resistance Bands
 ```
 
 ---
-
-
-**Would you like me to help you write a "Contributing" section to add to the bottom of the file in case other developers want to help you build the app?**
-
-```
