@@ -1,8 +1,5 @@
 
-
-```markdown
 # FIT_AI: Smart Gym & Fitness Instructor
-
 
 ---
 
@@ -131,18 +128,6 @@ INPUT: Goal = Hypertrophy | Target = Chest | Gear = Resistance Bands
 ---
 
 
-## 🏷 Keywords
-
-`Gym Workouts` `Fitness Training` `React` `Vite` `TailwindCSS` `Workout Generator` `Exercise Algorithms` `Web App` `Personalized Routines` `Open Source Fitness` `JavaScript`
-
----
-
-## 🎉 Wrapping Up
-
-**FIT_AI** bridges the gap between complex training science and a beautiful, intuitive user interface. By providing highly customized, algorithmically sound workouts based on your exact situation, FIT_AI proves that getting fit doesn't require an expensive personal trainer—just smart code.
-
-*Contributions, issues, and feature requests are always welcome! Let's build the ultimate open-source fitness tool together.*
-
-```
+**Would you like me to help you write a "Contributing" section to add to the bottom of the file in case other developers want to help you build the app?**
 
 ```
